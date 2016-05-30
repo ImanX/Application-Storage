@@ -8,7 +8,8 @@ import android.preference.PreferenceManager;
 import java.util.Map;
 
 /**
- * Created by ImanX on 5/30/2016.
+ * Created by ImanX on 5/23/2016.
+ * Copyright 2016 Alireza Tarazani. All rights reserved. 
  */
 public class ApplicationStorage {
 
